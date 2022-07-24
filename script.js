@@ -38,3 +38,6 @@ btn_add.addEventListener("click", () => {
     get_update();
     
 });
+
+let today = new Date();
+document.getElementById("dateToday").innerHTML = today;
