@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Karla', sans-serif;
+  background-image: url('https://img.freepik.com/free-vector/abstract-white-shapes-background_79603-1362.jpg?t=st=1658647297~exp=1658647897~hmac=3b08685bc5572301cbe2bfc256892f73585859c0d7fa90583727db494f24a713&w=2000');
+  
+}
+
+
+
+
+
+.heading{
+    text-align: center;
+    margin-top: 10px;
+
+   
+}
+
+
+.form{
+    max-width: 75%;
+    margin: auto;
+    border: 1px;
+    border-style: solid ;
+    padding: 80px;
+}
+
+.table{
+    max-width: 75%;
+    margin: 30px auto;
+    border: 10px;
+}
+
+
+.form-control {
+  margin-bottom: 10px;
+
+}
